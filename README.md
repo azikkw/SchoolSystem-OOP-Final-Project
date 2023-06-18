@@ -20,3 +20,5 @@ The school system is written observing all the rules and principles of Object-Or
     6. Librarian - Add books, view available and given books list, write messages
     
     !Common functioanl - Log in, view menu, view profile, view news
+
+    Employee - write/view messages, send/get requests
