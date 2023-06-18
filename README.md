@@ -25,4 +25,13 @@ The school system is written observing all the rules and principles of Object-Or
 
 ## COOL FEATURES
 
-    1. **Its own research system.** Students and all employees can engage in research activities. They can create their own research or join someone's group, for each reading of the user's research, his h-index increases by 0.1.
+    1. Our own research system -> Students and all employees can engage in research activities. They can create their own research or join someone's group, for each reading of the user's research, his h-index increases by 0.1.
+    2. News Feed -> News divide to Official/Upcoming events/Lost and found. News is created and edited by managers. All users can see aviable news.
+    3. Schedule table -> The schedule is available for students and teachers. They create their own schedule. When creating a schedule, they choose the day of the week and the time of the lesson from the available ones.
+    4. Student Organizations -> Students can create their own organizations and join existing ones.
+    5. Teacher Evaluation System -> Students can evaluate their teachers according to several criteria. During the assessment, the student is asked questions answering which the teacher's rating is built. Each teacher has a rating in their profile. All users are free to view their rating.
+    6. Generating a unique ID number -> The ID number consists of the year of admission/employment at the university, the letters S (Student)/E(Employee) and the numbers from the list
+    7. Full course management -> Teachers choose a schedule for their subject, the teacher has a journal and a list of students, they give grades, issue a certification, give an assessment for the final exam. The final score is generated from the log.
+    8. Request Sending System -> All employees can send requests and respond to them according to their positions. For example, an admin can only block users and remove them from the system, and a manager, for example, can respond to student requests.
+    9. Book system -> There is a librarian in the system. He can add and delete books in the system. Students and teachers can borrow books for a certain period. If they have not returned the book in the time period given to them, then the system blocks them.
+
