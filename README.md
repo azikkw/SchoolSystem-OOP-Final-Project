@@ -22,3 +22,7 @@ The school system is written observing all the rules and principles of Object-Or
     !Common functioanl - Log in, view menu, view profile, view news
 
     Employee - write/view messages, send/get requests
+
+## COOL FEATURES
+
+    1. **Its own research system.** Students and all employees can engage in research activities. They can create their own research or join someone's group, for each reading of the user's research, his h-index increases by 0.1.
